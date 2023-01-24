@@ -1,0 +1,2 @@
+i am here in SCM class
+i am learning c language
